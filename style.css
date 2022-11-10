@@ -86,8 +86,8 @@ header a {
 }
 
 #about-cafe {
-    display: flex;
-    /*width: 50%;*/
+    display: inline-block;
+    width: 50%;
     font-weight: 400;
 }
 
